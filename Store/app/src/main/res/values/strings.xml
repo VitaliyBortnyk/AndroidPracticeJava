@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Store</string>
+    <string name="addGoods">Додати товар</string>
+    <string name="name">Назва товару</string>
+    <string name="category">Категорія</string>
+    <string name="description">Опис</string>
+    <string name="price">Ціна за одиницю</string>
+    <string name="availability">Наявність на складі</string>
+    <string name="number">Кількість</string>
+    <string name="deliveryDate">Дата поставки</string>
+    <string name="add">Додати</string>
+    <string name="del">Видалити</string>
+    <string name="available">В наявності</string>
+    <string name="notAvailable">Немає в наявності</string>
+    <string name="load">Завантажити дані</string>
+    <string name="save">Зберегти дані</string>
+    <string name="search">Пошук</string>
+</resources>
